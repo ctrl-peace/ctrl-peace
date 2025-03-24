@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ctrl-peace
+- 👋 Hi, I’m Peace Odetola aka @ctrl-peace
 - 👀 I’m interested in coding, game dev, cybersecurity, and all things tech.
 - 🌱 Currently leveling up my SQL and software engineering skills. 
 - 💞️ I’m looking to collaborate on cool coding projects, especially in Java. 
